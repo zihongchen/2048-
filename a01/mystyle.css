@@ -1,0 +1,90 @@
+body{
+    background-color: #ffffff;
+    background-image: url('fans-JP-Trostle.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+  }
+  
+h1.class1{
+    color: navy;
+    margin-left: 20px;
+    font-family: "Times New Roman", Times, serif;
+  }
+#class2{
+    color: blueviolet;
+    margin-left: 10px;
+    font-family: "Lucida Console", Courier, monospace;
+}
+#class3{
+    color: rgb(43, 226, 134);
+    margin-left: 10px;
+    font-family: Impact, Charcoal, sans-serif;
+}
+#class4{
+    color: rgb(226, 95, 43);
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1.class5{
+    color: rgb(128, 0, 0);
+    margin-left: 10px;
+    font-size: 20em;
+    font-family: "Times New Roman", Times, serif;
+  }
+h1.class6{
+    color: rgb(128, 0, 113);
+    margin-left: 10px;
+    font-size: 10em;
+    font-family: "Times New Roman", Times, serif;
+  }
+#class7{
+    color: rgb(21, 0, 250);
+    margin-left: 10px;
+    font-size: 5em;
+    font-family: "Times New Roman", Times, serif;
+
+}
+div > pre{
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+}
+
+
+
+
+nav{
+    padding: 10px;
+    color: gray;
+    border-style: dashed;
+    Width: 200px;
+    height:210px;
+    background-color: #E8EDED
+
+}
+p{
+    font-family: "Lucida Console", Courier, monospace;
+    text-align:center; 
+    color:rgb(21, 18, 211);
+}
+a:link {
+    color: blue;
+  }
+  
+  /* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: red;
+}
+
+
